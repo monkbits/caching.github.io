@@ -1,10 +1,10 @@
 const cacheName = "v1";
 
 const cacheAssets= [
-    'index.html',
-    'about.html',
-    '/css/style.css',
-    '/js/main.js'
+    'https://monkbits.github.io/caching.github.io/index.html',
+    'https://monkbits.github.io/caching.github.io/about.html',
+    'https://monkbits.github.io/caching.github.io/css/style.css',
+    'https://monkbits.github.io/caching.github.io/js/main.js'
 ]
 
 // call install event 
