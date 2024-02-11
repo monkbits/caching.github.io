@@ -1,6 +1,7 @@
 const cacheName = "v1";
 
 const cacheAssets= [
+    'https://monkbits.github.io/caching.github.io/',
     'https://monkbits.github.io/caching.github.io/index.html',
     'https://monkbits.github.io/caching.github.io/about.html',
     'https://monkbits.github.io/caching.github.io/css/style.css',
